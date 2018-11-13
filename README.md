@@ -12,4 +12,4 @@ IIC is a constituent institute of the University of Delhi (established 1922) and
 |   ICET 2015   | [Link](https://github.com/iicudsc/MSc_Informatics_Entrance_Exam_Papers/raw/master/ICET_2015.pdf) |
 |   ICET 2016   | [Link](https://github.com/iicudsc/MSc_Informatics_Entrance_Exam_Papers/raw/master/ICET_2016.pdf) |
 |   ICET 2017   | [Link](https://github.com/iicudsc/MSc_Informatics_Entrance_Exam_Papers/raw/master/ICET_2016.pdf) |
-|   ICET 2018   | [Link](http://www.du.ac.in/QPPDF-new/DU%20MSc%20Informatics%20IIC.pdf) |
+|   ICET 2018   | [Link](https://github.com/watchdogs54/MSc_Informatics_Entrance_Exam_Papers/blob/master/ICET_2018.pdf) |
